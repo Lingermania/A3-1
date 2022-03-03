@@ -25,3 +25,8 @@ the edges are however chosen with a nearest neighbour criterion.
 ## Running an experiment
 
 Use /src/experiment.py to run experiments, i.e., try different combinations of mutate and crossover operators.
+
+## More
+Results as depicted in poster presentation are shown in results_poster.pdf
+
+Please send me a message for the full write up for the project.
